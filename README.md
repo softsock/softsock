@@ -1,5 +1,5 @@
-**obsessed with** [`VedalAI/neuro-sdk`](https://github.com/VedalAI/neuro-sdk) 
-
+**obsessed with** [`VedalAI/neuro-sdk`](https://github.com/VedalAI/neuro-sdk),
+AI & LLM.
 | Category | Technologies & Skills |
 |:---|:---|
 | **AI & LLM** | [![LLM](https://img.shields.io/badge/LLM_Engineering-673AB7?style=flat)](https://huggingface.co/) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/) ![Local Inference](https://img.shields.io/badge/Local_Inference-4C1D95?style=flat) ![GGUF](https://img.shields.io/badge/GGUF-555555?style=flat) ![Quantization](https://img.shields.io/badge/Quantization-795548?style=flat) ![LoRA](https://img.shields.io/badge/LoRA-9C27B0?style=flat) ![QLoRA](https://img.shields.io/badge/QLoRA-7B1FA2?style=flat) ![SFT](https://img.shields.io/badge/SFT-512DA8?style=flat) |
